@@ -1,0 +1,51 @@
+  html, body {
+    height: 100%;
+    margin: 0;
+    background: black;
+  }
+
+  body {
+    /**background-color: black;**/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #322A70
+    
+    
+  }
+  canvas {
+    border: 8px solid #45386B;
+    background: url(https://media0.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif);
+    background-size: 10% /**makes the size cover the whole**/
+  }
+/* .fakeapple  {
+  width: 160px;
+  height: 160px;
+  background: red;
+  animation-name: fakeapple;
+  animation-direction: reverse;
+} */
+/* #testanimation {
+  animation-direction:reverse;
+  animation-duration 4s;
+  position: relative;
+} */
+/* .decoration  {
+  display: flex;
+  width: 350px;
+  height: 650px;
+  margin-top: -10px;
+  background: url();
+  background-size: cover;
+  vertical-align:top;
+  background-position: center center;
+}
+.image-holder{
+  width:269px;
+  height:477px;
+  margin:77px 48px;
+  background: url(https://media0.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif)
+  
+}
+ */
+}
